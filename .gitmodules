@@ -1,0 +1,6 @@
+[submodule "social-environment-design"]
+	path = social-environment-design
+	url = git@github.com:ezhang7423/social-environment-design.git
+[submodule "BenchMARL"]
+	path = BenchMARL
+	url = git@github.com:ezhang7423/BenchMARL.git
